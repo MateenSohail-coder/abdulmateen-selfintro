@@ -136,3 +136,13 @@ footer {
     height: 250px;
   }
 }
+::-webkit-scrollbar {
+  width: 5px; 
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: #00ffcc;
+  border-radius: 6px; 
+}
+
